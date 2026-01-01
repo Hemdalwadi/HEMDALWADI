@@ -1,12 +1,11 @@
-<h1 align="center">👋 Hi, I'm <span style="color:#00F700">Havoc-09</span></h1>
-<h3 align="center">🎨 Frontend Developer | 💻 Web Enthusiast | ☕ Coffee-Powered Coder</h3>
+<h1 align="center">👋 Hi, I'm <span style="color:#00F700">HEMDALWADI</span></h1>
+<h3 align="center">🎨 Frontend Developer | 💻 Web Enthusiast 
 
 ---
 
 <p align="center">
   <img src="https://img.shields.io/badge/Frontend-Developer-blueviolet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Web-Creative%20%26%20Responsive-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Coffee-Fueled-brown?style=for-the-badge" />
 </p>
 
 ---
@@ -20,8 +19,6 @@
 💻 Skilled in **HTML, CSS & JavaScript** and constantly improving my frontend skills
 
 🌐 Interested in **UI/UX design**, animations & modern web experiences
-
-☕ Hardcore **Coffee Lover** — caffeine fuels my creativity & code
 
 🚀 Strong believer in **Projects > Theory** — I learn by building real-world web apps
 
@@ -37,10 +34,13 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Havoc-09&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Havoc-09&layout=compact&theme=tokyonight" height="165" />
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=HEMDALWADI&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=HEMDALWADI&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HEMDALWADI&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=HEMDALWADI&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
 
@@ -57,8 +57,8 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rohan-nair09"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-  <a href="mailto:work.rohannair@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
+  <a href="https://www.linkedin.com/in/hemanshu-kumar501"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
+  <a href="mailto:work.hemanshu2637@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
 </p>
 
 ---
@@ -67,7 +67,6 @@
 
 * 🌐 **Responsive Portfolio Website** — Built using HTML, CSS & JavaScript
 * 🛒 **Frontend Mini Projects** — Forms, landing pages & UI components
-* ☕ **HAVOC Coffee Shop Website** — Clean UI with modern design & responsiveness
 
 ---
 
@@ -81,10 +80,6 @@
 
 🔲 Bootstrap / Tailwind CSS
 
-🔲 React.js
-
-🔲 UI/UX Best Practices
-
 🔲 Performance Optimization
 
 ---
@@ -92,7 +87,8 @@
 ## 🎯 Fun Facts
 
 * 🎨 I enjoy turning ideas into **beautiful web interfaces**
-* ☕ Coffee boosts my creativity & debugging skills
+* 🏋️ Regular gym-goer — I train my body for strength and my mind for clean, consistent code
+* 🚗 Car enthusiast — fascinated by design, performance & the engineering behind great machines
 * 💡 Motto: *"Design clean. Code smart."*
 
 ---
